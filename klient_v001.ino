@@ -5,8 +5,6 @@
 
 #include <ESP8266HTTPClient.h>
 
-#define USE_SERIAL Serial
-
 ESP8266WiFiMulti WiFiMulti;
 
 void setup()
